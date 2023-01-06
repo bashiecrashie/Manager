@@ -29,6 +29,8 @@ The **Manager** is console and proxy-like program that allows the user to send d
 
 ## 2.2.2 Client options
 
+./mngr [server ip] [server port] [destination ip] [destination port] [message]
+
 **server ip** - IP address of the server that receives connections.
 
 **server port** - Port of the server that receives connections.
