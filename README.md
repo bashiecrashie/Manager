@@ -38,3 +38,5 @@ The **Manager** is console and proxy-like program that allows the user to send d
 **destination port** - The port of the computer that should receive the message.
 
 **message** - Data to be sent.
+
+**Example:** ./mngr client 123.123.123.123 999 123.123.123.123 8888 "Hello, world !"
