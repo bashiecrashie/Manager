@@ -23,6 +23,8 @@ The **Manager** is console and proxy-like program that allows the user to send d
 
 ## 2.2.1 Server options
 
+./mngr server [port number]
+
 **port number** - port number for receiving conncetions.
 
 **Example:** ./mngr server 1
