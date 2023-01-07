@@ -7,14 +7,14 @@ The **Manager** is console and proxy-like program that allows the user to send d
 
 ./mngr **[mode] [options]**
 
-# 2.1 Mode
+## 2.1 Mode
 
 **server** - start server-side mode and accept connections from clients.
 **client** - start client-side mode and connect to server.
 
 **Example:** ./mngr server 999 ./mngr client 123.123.123.123 999 123.123.123.123 8888 "Hello, world !"
 
-# 2.2 Options
+## 2.2 Options
 
 ## 2.2.1 Server options
 
